@@ -15,7 +15,7 @@ you can easily navigate your visit to USA!
 
 Check out [FRONTEND LIVE DEMO](https://travel-bug-techis-frontend.herokuapp.com/) here!!
 
-Check out [API LIVE DEMO](https://travel-bug-techis-backend.herokuapp.com/) here!!
+Check out [API LIVE DEMO](https://back-travel-bug.herokuapp.com/) here!!
 
 ## Tech used
 
